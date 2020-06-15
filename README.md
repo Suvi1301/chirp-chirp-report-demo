@@ -7,4 +7,4 @@ Bird Song Classifier Mobile Application Report and Demo - Third year project for
 [**chirp-chirp iOS application**](https://github.com/Suvi1301/chirp-chirp-ios)
 
 
-## Disertation Report and Video demo.
+## Dissertation Report and Video demo.
